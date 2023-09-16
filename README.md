@@ -2,6 +2,7 @@
 
 The point cloud reconstruction scene contains 10 high-fidelity point cloud digital
 models, with approximately 10 million point cloud data for each scene.
+1.	Wei Song*, Dechao Li, Su Sun, Xinghui Xu and Guidong Zu*, Registration for 3-D LiDAR Datasets using Pyramid Reference Object, IEEE Transactions on Instrumentation and Measurement, doi: 10.1109/TIM.2023.3300410, 2023.08.
 
 ## 3D Reconstruction Results
 
